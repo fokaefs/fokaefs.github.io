@@ -30,7 +30,7 @@ twitter_username: mar_fok
 github_username:  fokaefs
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
