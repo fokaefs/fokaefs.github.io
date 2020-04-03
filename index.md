@@ -2,122 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am an assistant professor in the Department of Computer and Software Engineering at Polytechnique Montreal.
 
-[Link to another page](./another-page.html).
+# Short Bio
 
-There should be whitespace between paragraphs.
+I received my BSc in 2008 in Applied Informatics from the University of Macedonia in Greece under the supervision of Professor Alexander Chatzigeorgiou. I received my MSc degree on the "Identification of Extract Class Refactoring Opportunities" in 2010 from the Department of Computing Science at the University of Alberta, Canada under the supervision of Professor Eleni Stroulia. In 2010, I completed my PhD degree at UofA on the evolution of service-oriented systems. Between 2015 and 2017, I worked as a postdoctoral fellow at CERAS lab with the team of Professor Marin Litoiu at York University. There I focused especially on self-adaptive systems for cloud and container-based applications. From September 2017, I am a faculty member at the Department of Computer and Software Engineering at Polytechnique Montreal, Canada.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# Research
 
-# Header 1
+I consider DevOps as the central focus of my research. More specifically, I work on multi-dimensional software quality at runtime for distributed systems. The quality dimensions that concern my work include maintenability, reliability, performance and security, but also revenue, cost and energy consumption. I have build solutions that consider hybrid models at runtime and self-adaptive systems, including automated controllers. The domain applications I am considering include Internet-of-Things, Smart Buildings, Health, and Finances. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+A particular interest of mine is on Software Enginering Economics and the problem of maintaining profit under rapidly changing conditions for software. In this sense, I am working on BizDevOps, a special level of integration between DevOps and BizOps for digital companies. At the center of my research is digital transformation, an overhauling change for business, but also for society and life in general.
 
-## Header 2
+A third special interest is Software Engineering for Machine Learning Applications (SEMLA), where we study the Software Engineering challenges and best practices in designing, developing and operating Machine Learning and AI applications. The goal is to raise awareness about the importance of Software Engineering and its practices on such critical applications. We aim to work with AI and domain experts to better support software development of highly innovative systems.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# Teaching
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+I am currently teaching Advanced Software Desing and Architecture (LOG8430) and Software Quality Engineering (LOG8371).
