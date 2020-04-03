@@ -31,7 +31,7 @@ twitter_username: mar_fok
 github_username:  fokaefs
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
