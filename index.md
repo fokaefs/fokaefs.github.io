@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /home/
 ---
 
 I am an assistant professor in the Department of Computer and Software Engineering at Polytechnique Montreal.
