@@ -34,7 +34,7 @@ description: Available graduate positions in the SRE project
    
    * A copy of the most recent version of their CV or Resume.
    * A copy of the transcripts of their undergraduate and master studies.
-   * The aforementioned documents are also required by the EECS application process for the PhD program (along with a statement of purpose). The candidate student is highly encouraged to complete the EECS application in parallel to contacting the professor. More information about the EECS application can be found here: https://lassonde.yorku.ca/eecs/academics/graduate/future-students/#phd 
+   * The aforementioned documents are also required by the EECS application process for the PhD program (along with a statement of purpose). The candidate student is highly encouraged to complete the EECS application in parallel to contacting the professor. More information about the EECS application can be found here: <https://lassonde.yorku.ca/eecs/academics/graduate/future-students/#phd>
    * The names and contact information of 3 referees.
    * A review for one of the three following articles. The review (maximum one page) should contain a summary of the paper, its strengths and weaknesses and comments about the improvement or extension of the work presented in the paper.
 
