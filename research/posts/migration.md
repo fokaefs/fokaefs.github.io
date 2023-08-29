@@ -46,6 +46,4 @@ description: Available graduate positions in the data migration project
    * The candidate student should submit these documents by email to the professor with the subject “Data Migration PhD 2024”. **__No email will be considered unless it has this subject and the required attachments (CV, transcripts, review, proposal)__**. In the email, the student should express their interest to the position and provide the corresponding evidence to the required skills as this appears in the attached documents.
 
 
-_yay_
-
-[back](./)
+[back]({% link research/projects.md %})
