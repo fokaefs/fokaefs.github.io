@@ -16,7 +16,9 @@ A particular interest of mine is on Software Enginering Economics and the proble
 
 A third special interest is Software Engineering for Machine Learning Applications (SEMLA), where we study the Software Engineering challenges and best practices in designing, developing and operating Machine Learning and AI applications. The goal is to raise awareness about the importance of Software Engineering and its practices on such critical applications. We aim to work with AI and domain experts to better support software development of highly innovative systems.
 
-[Here]({% link research/projects.md %})
+### I am hiring!
+
+[Here]({% link research/projects.md %}), you can find my current projects that have available positions for graduate students and postdocs.
 
 # Teaching
 
