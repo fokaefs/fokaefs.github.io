@@ -43,7 +43,7 @@ description: Available graduate positions in the data migration project
      + Hao, W., Yen, I.L. and Thuraisingham, B., 2009, July. Dynamic service and data migration in the clouds. In 2009 33rd annual IEEE international computer software and applications conference (Vol. 2, pp. 134-139). IEEE.
        
    * An example of a proposal (as evidence of writing) written by the student for a research project relevant to the position or of a topic selected by the student. The proposal should include background, motivation, methodology and a plan for evaluation. The proposal should be maximum 2 pages.
-   * The candidate student should submit these documents by email to the professor with the subject “Data Migration PhD 2024”. **__No email will be considered unless it has this subject and the required attachments (CV, transcripts, review, proposal)__**. In the email, the student should express their interest to the position and provide the corresponding evidence to the required skills as this appears in the attached documents.
+   * The candidate student should submit these documents by email to the professor with the subject “Data Migration PhD 2024”. ***No email will be considered unless it has this subject and the required attachments (CV, transcripts, review, proposal)***. In the email, the student should express their interest to the position and provide the corresponding evidence to the required skills as this appears in the attached documents.
 
 
 [back]({% link research/projects.md %})
