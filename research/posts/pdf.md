@@ -1,32 +1,33 @@
 ---
 layout: default
-title: SRE
-description: Available graduate positions in the SRE project
+title: PDF
+description: Available postdoc position in the EASE lab
 ---
 
-## Improving reliability efficiency through log mining and multi-objective optimizations
+## BizDevOps: Integration of business and development operations for the economic sustainability of digital businesses
 
 ### a.	Project Description
 
-   Site Reliability Engineering or SRE is a set of practices, developed at Google, aiming at maintaining the quality and reliability of software systems at runtime and in production. This is potentially one of the most critical phases of a software system's lifecycle as at this point it can directly affect the user experience and the provider's business goals. One major challenge that reliability teams have to face is the sheer amount of events that can happen during runtime and the data that these events generate. Potential lack of processing throughput and missed events may lead to increased maintenance costs, but most importantly to lost revenue. Another important challenge is that SRE is often in constructive competition with the development and business teams; while the SRE team pushes for more stability and reliability, the development team pushes for more changes to adopt new features, which may cause disruption to current users. As a result, both teams are constrained to operate under a given budget. For SRE, this is called an error budget; only a certain number of errors can be solved until a cost cap is reached. Beyond this budget, the engineers are allowed to focus more of their efforts towards extending the software. In this case, a proper analysis of incoming events, proper error triage and the ability to predict the cost of fixing errors are crucial. The objective of this project is to develop a decision-support platform that will be able to efficiently mine event logs and prioritize events and errors to be addressed. At a second phase, the platform will use multi-objective optimizations under the budget and time constraints to choose which events will be addressed and how to optimize the mean time to repair (MTTR) and the cost to fix errors.
+   Software has transitioned from a tool and a business enabler to a product by itself. As such it does not only have a technical manifestation, but it also carries business and economic value for companies. Decisions made with respect to the design, deployment, evolution or quality of the software can affect this business aspect and impact the economic position of the companies, especially smaller ones. In addition, while changes on the technical level are fast and frequent and require a methodology like DevOps to be tackled in a continuous manner with minimum disruption, this is not the case for business operations. The goal of this project is to merge the technical and business aspect of the software product in order to improve the efficiency of decision-making with respect to technical changes (i.e., implementing a new feature, fixing a bug or adapting the software to an external change) while considering their impact on the economic aspect of the software system.
 
 ### b.	Tasks and responsibilities
 
-   The hired student will work towards the development of a prototype tool for mining logs from cloud applications, support decisions on event prioritization and resolution, reduce mean time to repair and loss of revenue. The student will develop the theoretical foundation as well as the implementation for such mechanisms. The student will aim to publish in top-tier journals, including IEEE Transactions on Cloud Computing, IEEE Transaction on Big Data, IEEE Transactions on Knowledge and Data Engineering, ACM Transactions on Autonomous and Adaptive Systems, and conferences, such as SEAMS, ACSOS, ICSE, ICPC and others. The student will also be responsible for supervising and mentoring MSc and BSc students working on the project. The position is open for Winter, Summer or Fall 2024.
-### c.	Required Skills
+   The hired researcher will be expected to conduct an independent research program relevant to the description above, supervise graduate students working on similar projects, participate in applications for funding and author papers for top-tier journals and conferences including IEEE Transactions on Cloud Computing, IEEE Transaction on Big Data, IEEE Transactions on Knowledge and Data Engineering, ACM Transactions on Autonomous and Adaptive Systems, and conferences, such as SEAMS, ACSOS, ICSE, ICPC and others. The position is open for Winter, Summer or Fall 2024.
 
-   The student will be asked to demonstrate adequate understanding or expertise in the following topics through relevant courses (on undergraduate or graduate level) or through relevant publications in international conferences or journals. The student should consider applying if they have the expert-level skills and at least 50% of the good-level skills.
+### c. Required skills
+
+   The candidate will be asked to demonstrate adequate understanding or expertise in the following topics through relevant courses (on undergraduate or graduate level) or through relevant publications in international conferences or journals. The candidate should consider applying if they have the expert-level skills and at least 50% of the good-level skills.
 
    * Expert programming skills, preferably in python.
    * Expert knowledge on cloud computing and distributed systems.
    * Good knowledge in any of these optimization techniques: linear programming OR dynamic programming OR control theory.
-   * Good knowledge on data/text mining.
    * Good knowledge on distributed data analytics systems, such as MapReduce.
    * Good knowledge on container technology, such as Docker or Kubernetes.
    * Adequate knowledge on machine learning models and methods.
-   * Adequate knowledge on DevOps.
+   * Adequate knowledge on simulation methods, like Monte Carlo, and benchmarking techniques.
    * Adequate knowledge on statistical methods and tests.
-   * Basic knowledge on finances and economics.
+   * Good understanding of economics and basic business concepts will be appreciated.
+
 
 ### d.	Application process
 
@@ -34,14 +35,15 @@ description: Available graduate positions in the SRE project
    
    * A copy of the most recent version of their CV or Resume.
    * A copy of the transcripts of their undergraduate and master studies.
-   * The aforementioned documents are also required by the EECS application process for the PhD program (along with a statement of purpose). The candidate student is highly encouraged to complete the EECS application in parallel to contacting the professor. More information about the EECS application can be found here: <https://lassonde.yorku.ca/eecs/academics/graduate/future-students/#phd>
+   * A motivation letter highlighting the fitness of the candidate on the project, or the general area of DevOps, AIOps and SRE.
    * The names and contact information of 3 referees.
    * A review for one of the three following articles. The review (maximum one page) should contain a summary of the paper, its strengths and weaknesses and comments about the improvement or extension of the work presented in the paper.
 
-     * Hwang, J., Shwartz, L., Wang, Q., Batta, R., Kumar, H. and Nidd, M., 2021, May. Fixme: Enhance software reliability with hybrid approaches in cloud. In 2021 IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP) (pp. 228-237). IEEE.
-     * Wang, H., Wu, Z., Jiang, H., Huang, Y., Wang, J., Kopru, S. and Xie, T., 2021, November. Groot: An event-graph-based approach for root cause analysis in industrial settings. In 2021 36th IEEE/ACM International Conference on Automated Software Engineering (ASE) (pp. 419-429). IEEE.
-     * Hao, W., Yen, I.L. and Thuraisingham, B., 2009, July. Dynamic service and data migration in the clouds. In 2009 33rd annual IEEE international computer software and applications conference (Vol. 2, pp. 134-139). IEEE.
+     * Brosch, F., Gitzel, R., Koziolek, H. and Krug, S., 2010. Combining architecture-based software reliability predictions with financial impact calculations. Electronic Notes in Theoretical Computer Science, 264(1), pp.3-17.
+     * McGibbon, T. and Nicholls, D., 2002, January. Making the (business) case for software reliability. In Annual Reliability and Maintainability Symposium. 2002 Proceedings (Cat. No. 02CH37318) (pp. 285-292). IEEE.
+     * Jäpel, L.M. and Wedel, F.H., 2019. BizDevOps: a systematic literature review. FH Wedel, Wedel.
+
    * An example of a proposal (as evidence of writing) written by the student for a research project relevant to the position or of a topic selected by the student. The proposal should include background, motivation, methodology and a plan for evaluation. The proposal should be maximum 2 pages.
-   * The candidate student should submit these documents by email to the professor with the subject “SRE PhD 2024”. ***No email will be considered unless it has this subject and the required attachments (CV, transcripts, review, proposal)***. In the email, the student should express their interest to the position and provide the corresponding evidence to the required skills as this appears in the attached documents.
+   * The candidate student should submit these documents by email to the professor with the subject “BizDevOps PDF 2024”. ***No email will be considered unless it has this subject and the required attachments (CV, transcripts, review, proposal)***. In the email, the student should express their interest to the position and provide the corresponding evidence to the required skills as this appears in the attached documents.
 
 [back]({% link research/projects.md %})
