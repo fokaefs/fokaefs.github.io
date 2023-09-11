@@ -13,6 +13,7 @@ description: Available graduate positions in the SRE project
 ### b.	Tasks and responsibilities
 
    The hired student will work towards the development of a prototype tool for mining logs from cloud applications, support decisions on event prioritization and resolution, reduce mean time to repair and loss of revenue. The student will develop the theoretical foundation as well as the implementation for such mechanisms. The student will aim to publish in top-tier journals, including IEEE Transactions on Cloud Computing, IEEE Transaction on Big Data, IEEE Transactions on Knowledge and Data Engineering, ACM Transactions on Autonomous and Adaptive Systems, and conferences, such as SEAMS, ACSOS, ICSE, ICPC and others. The student will also be responsible for supervising and mentoring MSc and BSc students working on the project. The position is open for Winter, Summer or Fall 2024.
+   
 ### c.	Required Skills
 
    The student will be asked to demonstrate adequate understanding or expertise in the following topics through relevant courses (on undergraduate or graduate level) or through relevant publications in international conferences or journals. The student should consider applying if they have the expert-level skills and at least 50% of the good-level skills.
