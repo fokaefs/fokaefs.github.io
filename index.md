@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<img align="left" src="assets/images/Marios F (High res) (3).jpg" alt="My Image">
 I am an [assistant professor]({% link https://lassonde.yorku.ca/users/mfokaefs %}) in the Electrical Engineering and Computer Science at York University.
 
 # Short Bio
