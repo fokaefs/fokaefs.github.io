@@ -11,3 +11,4 @@ description: A list of current research projects with available graduate positio
 ## 4. [BizDevOps: Integration of business and development operations for the economic sustainability of digital businesses (1 PDF position available)]({% link research/posts/pdf.md %})
 ## 5. [Exploring the applicability of Generative AI and LLM on Software Architecture (Multiple PhD and MSc positions available)]({% link research/posts/gai_arch.md %})
 ## 6. [Exploring the applicability of Generative AI and LLM on Software Performance and Self-Adaptive Systems (Multiple PhD and MSc positions available)]({% link research/posts/gai_perf.md %})
+## 7. [Optimize the size and performance of AI models for low capacity devices (Multiple PhD and MSc positions available)]({% link research/posts/mlops.md %})
