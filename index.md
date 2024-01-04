@@ -2,11 +2,11 @@
 layout: default
 ---
 
-I am an assistant professor in the Department of Computer and Software Engineering at Polytechnique Montreal.
+I am an [assistant professor]({% link https://lassonde.yorku.ca/users/mfokaefs %}) in the Electrical Engineering and Computer Science at York University.
 
 # Short Bio
 
-I received my BSc in 2008 in Applied Informatics from the University of Macedonia in Greece under the supervision of Professor Alexander Chatzigeorgiou. I received my MSc degree on the "Identification of Extract Class Refactoring Opportunities" in 2010 from the Department of Computing Science at the University of Alberta, Canada under the supervision of Professor Eleni Stroulia. In 2010, I completed my PhD degree at UofA on the evolution of service-oriented systems. Between 2015 and 2017, I worked as a postdoctoral fellow at CERAS lab with the team of Professor Marin Litoiu at York University. There I focused especially on self-adaptive systems for cloud and container-based applications. From September 2017, I am a faculty member at the Department of Computer and Software Engineering at Polytechnique Montreal, Canada.
+I received my BSc in 2008 in Applied Informatics from the University of Macedonia in Greece under the supervision of Professor Alexander Chatzigeorgiou. I received my MSc degree on the "Identification of Extract Class Refactoring Opportunities" in 2010 from the Department of Computing Science at the University of Alberta, Canada under the supervision of Professor Eleni Stroulia. In 2010, I completed my PhD degree at UofA on the evolution of service-oriented systems. Between 2015 and 2017, I worked as a postdoctoral fellow at CERAS lab with the team of Professor Marin Litoiu at York University. There I focused especially on self-adaptive systems for cloud and container-based applications. From September 2017 to August 2022, I was a faculty member at the Department of Computer and Software Engineering at Polytechnique Montreal, Canada. Since August 2022, I have been at York University.
 
 # Research
 
@@ -22,4 +22,4 @@ A third special interest is Software Engineering for Machine Learning Applicatio
 
 # Teaching
 
-I am currently teaching Advanced Software Desing and Architecture (LOG8430) and Software Quality Engineering (LOG8371).
+I am currently teaching Software Design (EECS3311) and Mobile User Interfaces (EECS4443).
