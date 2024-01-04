@@ -4,7 +4,7 @@ title: Research projects
 description: A list of current research projects with available graduate positions
 ---
 
-<div style="text-align: right"> [Home]({% link index.md %}) </div>
+[Home]({% link index.md %})
 
 ## 1. [An intelligent and dynamic planner for adaptive migration of big data systems (1 PhD position available)]({% link research/posts/migration.md %})
 ## 2. [Improving reliability efficiency through log mining and multi-objective optimizations (1 PhD position available)]({% link research/posts/sre.md %})
