@@ -4,6 +4,7 @@ title: Research projects
 description: A list of current research projects with available graduate positions
 ---
 
+<div style="text-align: right"> [Home]({% link index.md %}) </div>
 
 ## 1. [An intelligent and dynamic planner for adaptive migration of big data systems (1 PhD position available)]({% link research/posts/migration.md %})
 ## 2. [Improving reliability efficiency through log mining and multi-objective optimizations (1 PhD position available)]({% link research/posts/sre.md %})
@@ -13,4 +14,4 @@ description: A list of current research projects with available graduate positio
 ## 6. [Exploring the applicability of Generative AI and LLM on Software Performance and Self-Adaptive Systems (Multiple PhD and MSc positions available)]({% link research/posts/gai_perf.md %})
 ## 7. [Optimize the size and performance of AI models for low capacity devices (Multiple PhD and MSc positions available)]({% link research/posts/mlops.md %})
 
-[Home]({% link index.md %})
+
